@@ -3,51 +3,46 @@ import { Project } from "../types";
 // TODO: Move this to API
 export const PROJECTS: Project[] = [
   {
-    title: 'Angular Gulp Seed',
-    date: 'Aug 2016',
-    subtext: 'A basic starter project to initialize project using AngularJS and Gulp. It follows MVC architecture and uses standard app structure.',
-    url: 'https://github.com/mohitvirli/angular-gulp-seed',
+    title: 'Online Farmermarket',
+    date: '2024',
+    subtext: 'A web app for browsing and buying fresh produce directly from local farmers.',
+
   },
   {
-    title: 'State.js',
-    date: 'Jul 2020',
-    subtext: 'A lightweight library for turning JS objects into observables, providing a convenient API for state management and manipulation.',
-    url: 'https://github.com/mohitvirli/state.js',
+    title: 'Online Course Platform',
+    date: '2024',
+    subtext: 'A platform for hosting, managing, and accessing educational courses online.',
+
   },
   {
-    title: 'change-host',
-    date: 'Jul 2020',
-    subtext: 'A CLI tool to manage /etc/hosts entries for local development. It enables quick and easy mapping of IPs to URLs with a single command.',
-    url: 'https://github.com/mohitvirli/change-host',
+    title: 'AR MAP',
+    date: 'jun 2024',
+    subtext: 'An augmented reality map application that overlays location-based data onto the real world for interactive navigation and exploration.',
   },
   {
-    title: 'Vaccine Slots Discord Bot',
-    date: 'May 2021',
-    subtext: 'A Discord Bot that sends alerts for COVID-19 vaccine availability based on PIN/district using public APIs.',
-    url: 'https://github.com/mohitvirli/vaccine-slots-discord-bot',
-  },
-  {
-    title: 'Chat bot',
+    title: 'Fortune Cookie',
     date: 'Aug 2024',
-    subtext: 'A streaming chatbot that allows users to switch between different LLMs with custom API keys.',
-    url: 'https://github.com/mohitvirli/chat-bot-vercel',
+    subtext: 'A website that generates response grom dataset that we upload and generate charts.',
+    url: 'https://fortune-cookie.app/app',
   },
   {
-    title: 'Word Game',
-    date: 'Oct 2024',
-    subtext: 'This word game app offers single and multiplayer modes where players take turns forming words, each starting with the last letter of the previous word.',
-    url: 'https://github.com/mohitvirli/word-game',
+    title: 'Gemini clone ',
+    date: '2025',
+    subtext: 'A conversational AI interface inspired by Google Gemini, designed to answer questions, generate content, and assist with tasks.',
+    url: 'https://github.com/ranjithRW/gemini',
   },
   {
-    title: 'DJ Gig',
-    date: 'Mar 2025',
-    subtext: 'Hosted a Sundowner event which was recorded and is out on YouTube. Furthermore, I performed a UKG/140 DJ set at a local club.',
-    url: 'https://www.youtube.com/watch?v=oauQSEySkoQ',
+    title: 'IPL security system',
+    date: '2025',
+    subtext: 'A security monitoring solution designed to ensure safety and crowd management during IPL events using real-time surveillance and alert systems.',
+    
+  
   },
+
+
   {
     title: 'Portfolio',
     date: 'Apr 2025',
     subtext: '[Enter a meta joke].',
-    url: 'https://github.com/mohitvirli/mohitvirli.github.io',
   },
 ];

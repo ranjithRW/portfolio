@@ -3,22 +3,18 @@ import { FooterLink } from "../types";
 export const FOOTER_LINKS: FooterLink[] = [
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/mohit-virli-4780b6112/',
+    url: 'https://www.linkedin.com/in/ranjiththangavel/',
   },
   {
-    name: 'GitHub',
-    url: 'https://github.com/mohitvirli',
+    name: 'GitHubPersonal',
+    url: 'https://github.com/ranjiththangavel2000',
   },
   {
-    name: 'Spotify',
-    url: 'https://open.spotify.com/user/21hr4w2hzp4ceidewwsb4bxoy',
-  },
-  {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/clevirli/',
+    name: 'GitHubOfficial',
+    url: 'https://github.com/ranjithRW',
   },
   {
     name: 'Resume',
-    url: './Mohit Virli - Resume.pdf',
+    url: './ranjith-resume.pdf',
   }
 ];

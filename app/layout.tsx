@@ -14,7 +14,7 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mohit Virli ✌️",
+  title: "Ranjith.T ✌️",
   description: "A frontend developer by profession, a creative at heart.",
 };
 
