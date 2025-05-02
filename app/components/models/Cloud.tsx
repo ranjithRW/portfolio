@@ -22,6 +22,19 @@ const CloudContainer = () => {
           speed={0.2}
           fade={5}
         />
+         <Cloud
+          seed={2}
+          segments={1}
+          concentrate="inside"
+          bounds={[10, 10, 10]}
+          growth={3.2}
+          position={[-1, 0, 0]}
+          smallestVolume={2}
+          scale={1.9}
+          volume={2}
+          speed={0.2}
+          fade={5}
+        />
         <Cloud
           seed={3}
           segments={1}
@@ -32,7 +45,7 @@ const CloudContainer = () => {
           smallestVolume={2}
           scale={1}
           volume={2}
-          fade={3}
+          fade={4}
           speed={0.1}
         />
         <Cloud
