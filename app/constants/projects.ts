@@ -33,6 +33,13 @@ export const PROJECTS: Project[] = [
     url: 'https://github.com/ranjithRW/gsap-landing',
   },
   {
+    title: 'Ecommerce website',
+    date: '2025',
+    subtext: 'Ecommerce website for browsing and buying products online, featuring user accounts, product listings, and a shopping cart.',
+    url:'https://creative-arithmetic-f7c0f0.netlify.app/',
+  
+  },
+  {
     title: 'Gemini clone ',
     date: '2025',
     subtext: 'A conversational AI interface inspired by Google Gemini, designed to answer questions, generate content, and assist with tasks.',
