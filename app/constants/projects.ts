@@ -33,10 +33,10 @@ export const PROJECTS: Project[] = [
     url: 'https://github.com/ranjithRW/gsap-landing',
   },
   {
-    title: 'Ecommerce website',
+    title: 'Online video meeting app',
     date: '2025',
-    subtext: 'Ecommerce website for browsing and buying products online, featuring user accounts, product listings, and a shopping cart.',
-    url: 'https://creative-arithmetic-f7c0f0.netlify.app/',
+    subtext: 'A web application that enables users to conduct video meetings with features like screen sharing, chat, and recording.',
+    url: 'https://online-video-meet.vercel.app/',
 
   },
   {
