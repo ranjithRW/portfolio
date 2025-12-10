@@ -27,10 +27,11 @@ export const PROJECTS: Project[] = [
     url: 'https://fortune-cookie.app/app',
   },
   {
-    title: 'GSAP Project',
+    title: 'Space-travel-experience',
     date: '2025',
-    subtext: 'A website with basic gsap project',
-    url: 'https://github.com/ranjithRW/gsap-landing',
+    //Solar System in Gsap animatio
+    subtext: 'Solar System in Gsap animation',
+    url: 'https://space-travel-experience-785d.vercel.app/',
   },
   {
     title: 'Online video meeting app',
