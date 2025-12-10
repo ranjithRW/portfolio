@@ -9,8 +9,8 @@ Checkout the live version at [ranjithRW.github.io](https://portfolio-rosy-six-26
 - Next.js
 - React
 - React-three-fiber
-- DREI
+- DREI-( React Three Fiber)
 - GSAP
-- Zustand
+- Zustand (Zustand minimizes unnecessary re-renders, ensuring efficient updates.)
 - Tailwind
 
