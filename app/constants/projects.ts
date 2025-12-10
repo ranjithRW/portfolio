@@ -36,27 +36,28 @@ export const PROJECTS: Project[] = [
     title: 'Ecommerce website',
     date: '2025',
     subtext: 'Ecommerce website for browsing and buying products online, featuring user accounts, product listings, and a shopping cart.',
-    url:'https://creative-arithmetic-f7c0f0.netlify.app/',
-  
+    url: 'https://creative-arithmetic-f7c0f0.netlify.app/',
+
   },
   {
-    title: 'Gemini clone ',
+    title: 'Pose buddy ',
     date: '2025',
-    subtext: 'A conversational AI interface inspired by Google Gemini, designed to answer questions, generate content, and assist with tasks.',
-    url: 'https://github.com/ranjithRW/gemini',
+    //it give real time feedback of ur pic and genrate own image for reactify that pose image to upgrade the pics
+    subtext: 'Help users improve their posing skills by providing real-time feedback and generating reference images for better photography.',
+    url: 'https://posebuddy.vercel.app/',
   },
   {
-    title: 'IPL security system',
+    title: 'Chatting App',
     date: '2025',
-    subtext: 'A security monitoring solution designed to ensure safety and crowd management during IPL events using real-time surveillance and alert systems.',
-
-
+    subtext: 'This is a real-time chat application that allows users to communicate instantly through text messages in various chat rooms or private conversations.',
+    url: 'https://chating-app-swart-tau.vercel.app/',
   },
 
 
   {
     title: 'Portfolio',
     date: 'Apr 2025',
-    subtext: '[Enter a meta joke].',
+    subtext: 'U can reach me!😎',
+    url: 'https://portfolio-rosy-six-26.vercel.app/'
   },
 ];

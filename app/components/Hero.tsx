@@ -34,7 +34,7 @@ const Hero = () => {
 
   return (
     <>
-      <Text position={[0, 2, -10]} color="#32CD32" {...fontProps} ref={titleRef}>
+      <Text position={[0, 2, -10]} color="#ef882b" {...fontProps} ref={titleRef}>
         Hi, I am Ranjith.T.
       </Text>
       <CloudContainer />
