@@ -14,8 +14,3 @@ Checkout the live version at [ranjithRW.github.io](https://portfolio-rosy-six-26
 - Zustand
 - Tailwind
 
-## Preview
-Some of the sample images from the app. Better to check it out live!
-
-
-![Uploading image.png…]()
