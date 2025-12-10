@@ -75,19 +75,19 @@ const Footer = () => {
     // Mobile: < 640px
     if (width < 640) {
       return {
-        spacing: 0.9,
-        startPosition: -1.5,
-        scale: 0.75,
-        fontSize: 0.15,
+        spacing: 1.4,
+        startPosition: -1.8,
+        scale: 0.7,
+        fontSize: 0.12,
       };
     }
     // Small tablet: 640px - 768px
     else if (width < 768) {
       return {
-        spacing: 1.1,
-        startPosition: -2,
-        scale: 0.85,
-        fontSize: 0.17,
+        spacing: 1.6,
+        startPosition: -2.2,
+        scale: 0.8,
+        fontSize: 0.15,
       };
     }
     // Tablet: 768px - 1024px
