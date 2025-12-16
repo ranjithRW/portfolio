@@ -2,30 +2,8 @@ import { Project } from "../types";
 
 // TODO: Move this to API
 export const PROJECTS: Project[] = [
-  {
-    title: 'Online Farmermarket',
-    date: '2024',
-    subtext: 'A web app for browsing and buying fresh produce directly from local farmers.',
 
-  },
-  {
-    title: 'Online Course Platform',
-    date: '2024',
-    subtext: 'A platform for hosting, managing, and accessing educational courses online.',
 
-  },
-  {
-    title: 'AR MAP',
-    date: 'jun 2024',
-    subtext: 'An augmented reality map application that overlays location-based data onto the real world for interactive navigation and exploration.',
-  },
-
-  {
-    title: 'Fortune Cookie',
-    date: 'Aug 2024',
-    subtext: 'A website that generates response grom dataset that we upload and generate charts.',
-    url: 'https://fortune-cookie.app/app',
-  },
   {
     title: 'Space-travel-experience',
     date: '2025',
@@ -60,5 +38,29 @@ export const PROJECTS: Project[] = [
     date: 'Apr 2025',
     subtext: 'U can reach me!😎',
     url: 'https://portfolio-rosy-six-26.vercel.app/'
+  },
+  {
+    title: 'Online blog writer app',
+    date: '2025',
+    subtext: 'A web app for writing and publishing blog posts.',
+    url: 'https://github.com/ranjithRW/blog-creator',
+  },
+  {
+    title: 'Online translation webapp',
+    date: '2025',
+    subtext: 'A platform for translating text from english or tanglish to Tamil.',
+    url: 'https://github.com/ranjithRW/translation',
+  },
+  {
+    title: 'DSA Learning platform',
+    date: '2025',
+    subtext: 'A platform for learning and practicingh searching and sorting algorithms using animaton and visualization.',
+    url: 'https://github.com/ranjithRW/DSA-animation',
+  },
+  {
+    title: 'Chat with data',
+    date: '2025',
+    subtext: 'A website that generates response from dataset that we upload and generate charts.',
+    url: 'https://github.com/ranjithRW/chat_with_excel',
   },
 ];
