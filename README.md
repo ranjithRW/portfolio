@@ -7,9 +7,7 @@ Checkout the live version at [ranjithRW.github.io](https://portfolio-rosy-six-26
 
 ## Demo Images
 
-![Demo Image](public/demo%20image.jpeg)
-
-![Demo1 Image](public/demo1%20image.jpeg)
+![Portfolio](public/portfolio.png)
 
 ## Tech Stack
 
